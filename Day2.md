@@ -11,7 +11,7 @@ having a separate styling sheet, using lowercase markup(keep tag names in
 lowercase that way it’s easier to read and maintain and remember to validate
 frequently(this will lessen the amount of time when debugging).*
 
-### *12 PRINCIPLES FOR A CLEAN HTML CODE*
+# *12 PRINCIPLES FOR A CLEAN HTML CODE*
 
 *In this article, Chris Coyier- a web designer and developer- explains that a
 “good CSS can only exist with an equally good HTML markup” and that the
@@ -30,7 +30,7 @@ articles published by Chris.**
 
 
 
-#### *CSS Naming Conventions that Will Save You Hours of Debugging*
+# *CSS Naming Conventions that Will Save You Hours of Debugging*
 
 *I agree with Ohans statement that “a poorly written CSS will quickly turn into
 a nightmare” So true!
@@ -65,7 +65,7 @@ what about if you had stick man of different head sizes?
 .stick-man__head-- small {  }
 .stick-man__head--big {   }*
 
-##### *Best Practices in CSS*
+# *Best Practices in CSS*
 
 *Great article. This is a reminder of material previously learnt in
 RefCode. For example, making CSS readable, utilization of Resets
@@ -76,7 +76,7 @@ I came across “combining CSS Elements”. I wonder if I ever used this? I thou
  it was clever.
 For example h1, h2, h3 {font-family: Verdana; color: #elelel;}*
 
-###### *25 CSS best practices we follow at Innofied*
+# *25 CSS best practices we follow at Innofied*
 
 *When it comes to the Best practices to follow with CSS, this article by
 Swarnendu De tops the others so far because it lists everything else mentioned
