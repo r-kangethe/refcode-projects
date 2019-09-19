@@ -1,4 +1,4 @@
-#*WEEK 2 HOMEWORK*
+# *WEEK 2 HOMEWORK*
 
 
 ## *HTML/BEST PRACTICES*
@@ -38,7 +38,7 @@ He mentions the usage of Hyphen Delimited strings .
 I’ve come across the usage of hyphens but not the delimited strings part.
 He also mentions camel case, what is that? Is it the same thing with lower case?
 Perhaps it’s because he is referring to Java Script.
-I don’t know the answer to this but will find out.*
+**I don’t know the answer to this but will find out.**
 
 *Ahh Hypens, about that, he reminds us to use hyphens and lower case ie
  .redBox (X) red-box(YES)  font-weight(Yes) fontWeight(X)*
@@ -83,7 +83,7 @@ Swarnendu De tops the others so far because it lists everything else mentioned
 in the other articles and on top of it, it’s an easy read for me. Maybe its the
  styling and a clean page? Can’t pin point what it is. Overall,
  I loved the read. Something that I need to re-visit is the Block vs.
- Inline elements.  #16 on the article.  I will definitely revisit this article.*
+ Inline elements.  number 16 on the article.  **I will definitely revisit this article.**
 
 # *Video*
 
@@ -110,11 +110,11 @@ Repetition- every project should have a consistent look and feel.
 
 # *The Law of Similarity - Gestalt Principles*
 
-*This article serves up a term that I have never encountered before even though
+*This article serves up a term that I have never encountered before, even though
  I come across Gestalt everyday.
 So what is “Gestalt”?
-It refers to “shape” or “form” in German.
-What are the Gestalt principles? Gestalt principles or laws are rules that
+It refers to a“shape” or “form” in German.
+What are the Gestalt principles? **Gestalt principles** or laws are rules that
  describe how the human eye perceives visual elements and aim to show how
  complex scenes can be reduced to more simple shapes.
 They aim to explain how the eyes perceive the shapes as a single, united form
