@@ -85,7 +85,7 @@ in the other articles and on top of it, it’s an easy read for me. Maybe its th
  I loved the read. Something that I need to re-visit is the Block vs.
  Inline elements.  #16 on the article.  I will definitely revisit this article.*
 
-####### *Video*
+# *Video*
 
 *Layout and composition are the foundations of design. They give your work
 structure and make it easier to navigate(from margins to content in between)
@@ -108,7 +108,7 @@ Repetition- every project should have a consistent look and feel.
  focus on content.*
 
 
-####### *The Law of Similarity - Gestalt Principles*
+# *The Law of Similarity - Gestalt Principles*
 
 *This article serves up a term that I have never encountered before even though
  I come across Gestalt everyday.
@@ -134,7 +134,7 @@ The organization of cognitive processes(visual perception)-that Gestalt theorist
  of how we interpret the constant stream of visual information entering our
  eyes into a cohesive, meaningful and usable representation of the world.* 
 
-######## *The Building Blocks of Visual Design*
+# *The Building Blocks of Visual Design*
 
 *This article is a combination of both the video and article materials.
 When it comes to visual design, this article seems to concentrate on the
